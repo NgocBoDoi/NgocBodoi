@@ -1,0 +1,70 @@
+nav {
+	background-color: black;
+	overflow: hidden;
+}
+
+nav a {
+	color: white;
+	padding: 14px 20px;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+}
+
+.menu {
+	float: right;
+}
+
+
+#gioithieu {
+	text-align: center;
+}
+
+nav a:hover {
+	background-color: #DDD;
+	color: black;
+}
+
+#contract {
+	text-align: center;
+}
+
+blockquote {
+	border-left: 4px solid grey;
+  height: 70px;
+}
+
+#career {
+	font-size: 150%;
+	font-weight: bold;
+}
+
+#notable {
+	font-size: 150%;
+	font-weight: bold;
+}
+
+.last1 {
+	font-size: 150%;
+	font-weight: bold;
+}
+
+footer {
+	background-color: #333;
+	color: white;
+	padding: 10px 20px;
+	text-align: center;
+}
+
+footer > a {
+	color: white;
+}
+
+table {
+	width: 100%;
+  	border: 1px solid;
+}
+
+
+
+
