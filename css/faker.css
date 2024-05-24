@@ -1,0 +1,91 @@
+#first1 {
+	width: 80%;
+	margin: 50px 0 150px 100px;
+}
+
+#contract {
+	height: 40px;
+	background: pink;
+	line-height: 40px;
+	padding-left: 10px;
+}
+
+#gioithieu {
+	font-size: 15px;
+	margin-top: 20px;
+}
+
+
+.nani {
+	margin:10px 0 15px 25px;
+}
+
+nav {
+	background-color: black;
+	overflow: hidden;
+}
+
+nav a {
+	color: white;
+	padding: 14px 20px;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+}
+
+.menu {
+/*	float: right;*/
+	text-align: left;
+}
+
+
+
+nav a:hover {
+	background-color: #DDD;
+	color: black;
+}
+
+
+blockquote {
+	border-left: 4px solid grey;
+  height: 70px;
+}
+
+#career {
+	font-size: 150%;
+	font-weight: bold;
+}
+
+#notable {
+	font-size: 150%;
+	font-weight: bold;
+}
+
+.last1 {
+	font-size: 150%;
+	font-weight: bold;
+}
+
+footer {
+	background-color: #333;
+	color: white;
+	padding: 10px 20px;
+	text-align: center;
+}
+
+footer > a {
+	color: white;
+}
+
+table {
+	width: 100%;
+  	border: 1px solid;
+ }
+
+
+figure {
+  width: 260px;
+  border: 1px solid gray;
+  padding: 10px;
+  margin: 10px;
+}
